@@ -1,0 +1,28 @@
+div {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-top: 10px;
+  }
+body {
+    background-color: black;
+    cursor: crosshair;
+}
+
+.timer{
+    position: absolute;
+    height: 20px;
+    width: 70px;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    display: block;
+    background-color: white;
+    font-size: larger;
+}
+
+h1{
+    text-align: center;
+    color: purple;
+
+}
